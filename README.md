@@ -13,13 +13,13 @@ android端网络视频点播播放器
 
 ### 效果图
 
-![](https://github.com/huangdali/VideoPlayer_for_Android/blob/master/screenshot.png)
+![](https://github.com/jwkj/VideoPlayer_for_Android/blob/master/screenshot.png)
 
 
 ### 引入：
 
 ```java
-compile 'com.jwkj:VideoPlayer:v2.0.8'
+compile 'com.jwkj:VideoPlayer:v2.0.9'
 ```
 
 ### 添加混淆：
@@ -100,6 +100,9 @@ compile 'com.jwkj:VideoPlayer:v2.0.8'
 ```
 
 ## 版本记录
+v2.0.9（ [2019.01.19]() ）
+
+- 【修复】视频播放时出现闪退现象
 
 v2.0.8（ [2018.03.14]() ）
 
